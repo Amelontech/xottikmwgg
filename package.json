@@ -35,7 +35,7 @@
     "mongoose": "^5.11.17",
     "node-fetch": "^2.6.1",
     "parse-ms": "^2.1.0",
-    "passport": "^0.4.1",
+    "passport": "^0.6.0",
     "passport-discord": "^0.1.4",
     "path": "^0.12.7",
     "referrer-policy": "^1.2.0",
