@@ -40,7 +40,7 @@
     "path": "^0.12.7",
     "referrer-policy": "^1.2.0",
     "request": "^2.88.2",
-    "socket.io": "^4.0.1",
+    "socket.io": "^4.6.1",
     "sweetalert": "^2.1.2",
     "sweetalert2": "10.15.6",
     "vcodes.js": "1.0.1-renewed",
